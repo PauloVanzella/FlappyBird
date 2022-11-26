@@ -1,2 +1,2 @@
 # FlappyBird
-Projeto jogo Flappy Bird (Js, Css, Html)
+Simple Flappy Bird Game (Js, Css, Html)
